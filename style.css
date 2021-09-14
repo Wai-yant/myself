@@ -1,0 +1,32 @@
+.body{
+				background-color: #E6E6E6;
+}
+
+
+#main{
+				background-color: white;
+			 	position: relative;
+				top: 80px;
+}
+
+#profile{
+				background-color: #A2CDFD;
+				border-radius: 50px;
+				position: relative;
+				top: -80px;
+}
+h2{
+				position: relative;
+				top: -20px;
+}
+#contact-list,#project-list{
+				list-style: none;
+}
+#education-table{
+				background-color:#E6E6E6 ;
+}
+#footer{
+					position: relative;
+					top: 80px;
+					background-color: #333333;
+}
